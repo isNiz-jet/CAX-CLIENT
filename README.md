@@ -1,2 +1,2 @@
 # CAX-CLIENT
-CAX CLIENT is a client that provides support . | ✅ |
+Tự tìm hiểu cách dùng nếu không cụt tay| ✅ |
